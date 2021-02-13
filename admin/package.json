@@ -35,7 +35,7 @@
     "moment": "^2.10.3",
     "uber-watchify": "^3.6.0",
     "uglifyify": "^3.0.1",
-    "vinyl": "^0.4.6",
+    "vinyl": "^0.5.3",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.0.0",
     "virtual-dom": "^2.0.1",
